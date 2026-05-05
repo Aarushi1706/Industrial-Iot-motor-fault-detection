@@ -5,17 +5,14 @@ Industrial IoT-based motor fault detection system using sensor fusion and hybrid
 Detailed documentation of the system design, circuit diagrams, and implementation is available here:
 
 👉 [View Full Report](docs/Project_Report.pdf)
+
 ## 🧠 System Setup
-![Setup](images/setup.jpg)
+![System Setup](images/setup.jpg)
 
 ## 📊 Dashboard
 
 ### ✅ Normal Operation
-<p align="center">
-  <img src="images/normal.png" width="500">
-</p>
+![Normal](images/normal.jpg)
 
 ### ⚠️ Fault Detected
-<p align="center">
-  <img src="images/faulty.png" width="500">
-</p>
+![Fault](images/faulty.jpg)
