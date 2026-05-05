@@ -16,3 +16,7 @@ Detailed documentation of the system design, circuit diagrams, and implementatio
 
 ### ⚠️ Fault Detected
 ![Fault](images/faulty.jpg)
+## 📊 Model Evaluation
+
+### Confusion Matrix
+![Confusion Matrix](images/confusion_matrix.png)
